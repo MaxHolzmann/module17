@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# How Do You Read Regular Expressions? (Regex)
 
 Introductory paragraph (replace this with your text)
 
